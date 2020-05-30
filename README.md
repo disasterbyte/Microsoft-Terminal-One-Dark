@@ -1,4 +1,4 @@
-# Microsoft-Terminal-One-Dark
+# Microsoft Terminal One Drk
 A One Dark color scheme for Microsoft Terminal
 
 Add the following to the `schemes` section:
